@@ -1,18 +1,47 @@
-- 👋 Hi, I’m @abdulsalam2121
+# 👋 Hi, I'm Abdul Salam
 
-- 👀 I’m interested in coding, problem-solving, and exploring new technologies.
+🎯 **Full-Stack Developer (React, Node.js) | AI & Machine Learning Engineer**
 
-- 🌱 I’m currently learning more about advanced React concepts and sharpening my Java skills.
+I recently completed my **BS in Computer Science (Sukkur IBA University, 2025)** and specialize in building **scalable web applications and AI-powered solutions**. I enjoy solving complex problems, optimizing performance, and turning ideas into impactful software.
 
-- 💞️ I’m looking to collaborate on innovative projects that involve Java or React development.
+---
 
-- 📫 How to reach me: Feel free to connect with me on LinkedIn [Abdul Salam](https://www.linkedin.com/in/abdul-salam-ghanghro-6ab797207/).
+## 🔹 What I Do
+- 🌐 **Full-Stack Web Development** – React.js, Node.js, REST APIs, MongoDB  
+- 🤖 **AI & Machine Learning** – Python, Scikit-learn, Deep Learning basics  
+- 📊 **Data Science** – Data analysis, visualization, and predictive modeling  
+- ⚡ **Problem Solving** – Algorithms, DSA, and performance optimization  
 
-- 😄 Pronouns: He/Him
+---
 
-- ⚡ Fun fact: I once built a Java GUI application for efficient management systems.
+## 🚀 Featured Projects
+- **[QR Cashback Royalty System](https://github.com/abdulsalam2121/qr_cashback_royalty_system)**  
+  *Full-stack React + Node.js project for managing cashback rewards, reduced manual tracking by 80%.*  
 
-<!---
-abdulsalam2121/abdulsalam2121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **[Automated Benchmark Software (FYP)](https://github.com/abdulsalam2121/fyp)**  
+  *AI-driven tool for algorithm complexity analysis with 95%+ accuracy and exportable reports.*  
+
+- **[Delight Hub](https://github.com/abdulsalam2121/Delight-Hub)**  
+  *Multi-module React app with optimized performance (+25 Lighthouse score).*  
+
+- **[Covercell](https://github.com/abdulsalam2121/covercell)**  
+  *API integration + state management project, improved page load by 1.5s.*  
+
+---
+
+## 🛠️ Tech Stack
+**Languages**: JavaScript (ES6+), Python, Java, C++  
+**Frontend**: React.js, HTML5, CSS3, Tailwind  
+**Backend**: Node.js, Express  
+**Databases**: Firebase, MongoDB  
+**Tools**: Git, GitHub, VS Code, Jupyter, Docker (basic)  
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulsalam2121/)  
+- 📧 Email: abdulsalamgh@outlook.com  
+- 🌍 [Portfolio (coming soon...)]  
+
+---
+✨ *Always curious, always building — let's create something impactful together!*  
