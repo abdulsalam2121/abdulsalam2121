@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Abdul Salam
+# Hi, I'm Abdul Salam
 
-🎯 **Full-Stack Developer (React, Node.js) | AI & Machine Learning Engineer**
+**Full-Stack Developer (React, Node.js) | AI & Machine Learning Engineer**
 
 I recently completed my **BS in Computer Science (Sukkur IBA University, 2025)** and specialize in building **scalable web applications and AI-powered solutions**. I enjoy solving complex problems, optimizing performance, and turning ideas into impactful software.
 
 ---
 
-## 🔹 What I Do
+## What I Do
 - 🌐 **Full-Stack Web Development** – React.js, Node.js, REST APIs, MongoDB  
 - 🤖 **AI & Machine Learning** – Python, Scikit-learn, Deep Learning basics  
 - 📊 **Data Science** – Data analysis, visualization, and predictive modeling  
@@ -14,7 +14,7 @@ I recently completed my **BS in Computer Science (Sukkur IBA University, 2025)**
 
 ---
 
-## 🚀 Featured Projects
+## ✨ Featured Projects
 - **[QR Cashback Royalty System](https://github.com/abdulsalam2121/qr_cashback_royalty_system)**  
   *Full-stack React + Node.js project for managing cashback rewards, reduced manual tracking by 80%.*  
 
