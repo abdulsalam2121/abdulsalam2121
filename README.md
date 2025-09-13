@@ -39,8 +39,12 @@ I recently completed my **BS in Computer Science (Sukkur IBA University, 2025)**
 ---
 
 ## 📫 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-salam-ghanghro-6ab797207)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsalam.bscs@gmail.com)
+- <a href="https://www.linkedin.com/in/abdul-salam-ghanghro-6ab797207" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px"/>
+</a>
+- <a href="mailto:abdulsalam.bscs@gmail.com">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30px"/>
+</a>
 - 🌍 [Portfolio (coming soon...)]  
 
 ---
